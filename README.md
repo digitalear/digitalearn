@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <base href="https://digitalgoodsmarket.com/">
@@ -318,7 +317,7 @@
         </section>
 
         <div class="contact-info">
-            <p>Demande un site pour gagner de l'argent en ligne en écrivant à : <strong class="email"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="99faf6f7edf8faedfdf0fef0edf8f5fcf8ebf7d9fef4f8f0f5b7faf6f4"><span class="__cf_email__" data-cfemail="4724282933262433232e202e33262b2226352907202a262e2b6924282a">[email&#160;protected]</span></a></strong></p>
+            <p>Demande un site pour gagner de l'argent en ligne en écrivant à : <strong class="email"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="99faf6f7edf8faedfdf0fef0edf8f5fcf8ebf7d9fef4f8f0f5b7faf6f4"><span class="__cf_email__" data-cfemail="4724282933262433232e202e33262b2226352907202a262e2b6924282a">contactdigitalearn@gmail.com</span></a></strong></p>
         </div>
 
         <section class="visualizer-section">
